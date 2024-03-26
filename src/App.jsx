@@ -5,7 +5,11 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import HomePage from './HomePage'
-import { Navbar, Feed, VideoDetails, ChannelDetails, SearchFeed } from './components';
+// import { Navbar, Feed, VideoDetails, ChannelDetails, SearchFeed } from './components';
+import Feed from './components';
+import VideoDetails from './components';
+import ChannelDetails from './components';
+import SearchFeed from './components';
 import { blue } from '@mui/material/colors';
 import LoadingScreen from './components/LoadingScreen';
 
