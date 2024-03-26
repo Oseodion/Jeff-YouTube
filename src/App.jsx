@@ -6,10 +6,10 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import HomePage from './HomePage'
 // import { Navbar, Feed, VideoDetails, ChannelDetails, SearchFeed } from './components';
-import Feed from './components';
-import VideoDetails from './components';
-import ChannelDetails from './components';
-import SearchFeed from './components';
+import Feed from './components/Feed';
+import VideoDetails from './components/VideoDetails';
+import ChannelDetails from './components/ChannelDetails';
+import SearchFeed from './components/SearchFeed
 import { blue } from '@mui/material/colors';
 import LoadingScreen from './components/LoadingScreen';
 
