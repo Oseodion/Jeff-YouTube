@@ -154,8 +154,7 @@ body{
 }
 
 .content.shifted {
-  transition: margin-left 0.5s;
-  margin-left: 60px;
+  display: none;
 }
 hr{
   background-color: gray;
